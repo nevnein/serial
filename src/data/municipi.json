@@ -1,0 +1,442 @@
+[
+  {
+    "NIL - Name": "Duomo",
+    "NIL-ID": 1,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Brera",
+    "NIL-ID": 2,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Giardini P.ta Venezia",
+    "NIL-ID": 3,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Guastalla",
+    "NIL-ID": 4,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Porta Vigentina - Porta Lodovica",
+    "NIL-ID": 5,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Porta Ticinese - Conca del Naviglio",
+    "NIL-ID": 6,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Magenta - S.Vittore",
+    "NIL-ID": 7,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Parco Sempione",
+    "NIL-ID": 8,
+    "Municipio": 1
+  },
+  {
+    "NIL - Name": "Porta Garibaldi - Porta Nuova",
+    "NIL-ID": 9,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Stazione Centrale - Ponte Seveso",
+    "NIL-ID": 10,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Isola",
+    "NIL-ID": 11,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Maciachini - Maggiolina",
+    "NIL-ID": 12,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Greco - Segnano",
+    "NIL-ID": 13,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Niguarda - Ca Granda - Prato Centenaro - Q.re Fulvio Testi",
+    "NIL-ID": 14,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Bicocca",
+    "NIL-ID": 15,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Gorla - Precotto",
+    "NIL-ID": 16,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Adriano",
+    "NIL-ID": 17,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Cimiano - Rottole - Q.re Feltre",
+    "NIL-ID": 18,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Padova - Turro - Crescenzago",
+    "NIL-ID": 19,
+    "Municipio": 2
+  },
+  {
+    "NIL - Name": "Loreto - Casoretto - NoLo",
+    "NIL-ID": 20,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Buenos Aires - Porta Venezia - Porta Monforte",
+    "NIL-ID": 21,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Citta' studi",
+    "NIL-ID": 22,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Lambrate - Ortica",
+    "NIL-ID": 23,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Parco Forlanini - Cavriano",
+    "NIL-ID": 24,
+    "Municipio": 3
+  },
+  {
+    "NIL - Name": "Corsica",
+    "NIL-ID": 25,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "XXII Marzo",
+    "NIL-ID": 26,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Pta Romana",
+    "NIL-ID": 27,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Umbria - Molise - Calvairate",
+    "NIL-ID": 28,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Ortomercato",
+    "NIL-ID": 29,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Taliedo - Morsenchio - Q.re Forlanini",
+    "NIL-ID": 30,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Monlue' - Ponte Lambro",
+    "NIL-ID": 31,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Triulzo Superiore",
+    "NIL-ID": 32,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Rogoredo - Santa Giulia",
+    "NIL-ID": 33,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Chiaravalle",
+    "NIL-ID": 34,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Lodi - Corvetto",
+    "NIL-ID": 35,
+    "Municipio": 4
+  },
+  {
+    "NIL - Name": "Scalo Romana",
+    "NIL-ID": 36,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Morivione",
+    "NIL-ID": 37,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Vigentino - Q.re Fatima",
+    "NIL-ID": 38,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Quintosole",
+    "NIL-ID": 39,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Ronchetto delle Rane",
+    "NIL-ID": 40,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Gratosoglio - Q.re Missaglia - Q.re Terrazze",
+    "NIL-ID": 41,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Stadera - Chiesa Rossa - Q.re Torretta - Conca Fallata",
+    "NIL-ID": 42,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Tibaldi",
+    "NIL-ID": 43,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Porta Ticinese - Conchetta",
+    "NIL-ID": 44,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Moncucco - San Cristoforo",
+    "NIL-ID": 45,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Barona",
+    "NIL-ID": 46,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Cantalupa",
+    "NIL-ID": 47,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Ronchetto sul Naviglio - Q.re Lodovico il Moro",
+    "NIL-ID": 48,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Giambellino",
+    "NIL-ID": 49,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Porta Genova",
+    "NIL-ID": 50,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Porta Magenta",
+    "NIL-ID": 51,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Bande Nere",
+    "NIL-ID": 52,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Lorenteggio",
+    "NIL-ID": 53,
+    "Municipio": 6
+  },
+  {
+    "NIL - Name": "Muggiano",
+    "NIL-ID": 54,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Baggio - Q.re degli Olmi - Q.re Valsesia",
+    "NIL-ID": 55,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Forze Armate",
+    "NIL-ID": 56,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "San Siro",
+    "NIL-ID": 57,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "De Angeli - Monte Rosa",
+    "NIL-ID": 58,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Tre Torri",
+    "NIL-ID": 59,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Stadio - Ippodromi",
+    "NIL-ID": 60,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Quarto Cagnino",
+    "NIL-ID": 61,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Quinto Romano",
+    "NIL-ID": 62,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Figino",
+    "NIL-ID": 63,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Trenno",
+    "NIL-ID": 64,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Q.re Gallaratese - Q.re San Leonardo - Lampugnano",
+    "NIL-ID": 65,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "QT 8",
+    "NIL-ID": 66,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Portello",
+    "NIL-ID": 67,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Pagano",
+    "NIL-ID": 68,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Sarpi",
+    "NIL-ID": 69,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Ghisolfa",
+    "NIL-ID": 70,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Villapizzone - Cagnola - Boldinasco",
+    "NIL-ID": 71,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Maggiore - Musocco - Certosa",
+    "NIL-ID": 72,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Cascina Merlata",
+    "NIL-ID": 73,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Roserio",
+    "NIL-ID": 74,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Stephenson",
+    "NIL-ID": 75,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Quarto Oggiaro - Vialba - Musocco",
+    "NIL-ID": 76,
+    "Municipio": 8
+  },
+  {
+    "NIL - Name": "Bovisa",
+    "NIL-ID": 77,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Farini",
+    "NIL-ID": 78,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Dergano",
+    "NIL-ID": 79,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Affori",
+    "NIL-ID": 80,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Bovisasca",
+    "NIL-ID": 81,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Comasina",
+    "NIL-ID": 82,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Bruzzano",
+    "NIL-ID": 83,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Parco Nord",
+    "NIL-ID": 84,
+    "Municipio": 9
+  },
+  {
+    "NIL - Name": "Parco delle Abbazie",
+    "NIL-ID": 85,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Parco dei Navigli",
+    "NIL-ID": 86,
+    "Municipio": 5
+  },
+  {
+    "NIL - Name": "Assiano",
+    "NIL-ID": 87,
+    "Municipio": 7
+  },
+  {
+    "NIL - Name": "Parco Bosco in citta'",
+    "NIL-ID": 88,
+    "Municipio": 8
+  }
+]

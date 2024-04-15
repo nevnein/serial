@@ -1,32 +1,19 @@
-import { useState } from "react";
-import "./App.css";
+import { MainContextProvider } from "./context/MainContextProvider";
+import { PseudoRouter } from "./views/PseudoRouter";
 
 function App() {
-  const [port, setPort] = useState<null | SerialPort>(null);
-
-  const requestPorts = async () => {
-    await navigator.serial.requestPort().then((port) => {
-      setPort(port);
-    });
-  };
-
-  const sendData = async () => {
-    const writer = port?.writable.getWriter();
-    writer?.write(new Uint8Array([1]));
-    writer?.close();
-  };
-
   return (
-    <>
-      <h1>Test</h1>
-      <div className="card">
-        {!port ? (
-          <button onClick={requestPorts}>Connetti a seriale</button>
-        ) : (
-          <button onClick={sendData}>Invia 1</button>
-        )}
+    <div className="flex flex-col">
+      <div className="border-b border-cyan-350 text-center text-cyan-350 p-[10px] text-2xl leading-6 ">
+        Questo non è un modello di pianificazione urbana. È un generatore di
+        possibilità
       </div>
-    </>
+      <div className="flex justify-center items-center flex-1 flex-col gap-4 py-8">
+        <MainContextProvider>
+          <PseudoRouter />
+        </MainContextProvider>
+      </div>
+    </div>
   );
 }
 
